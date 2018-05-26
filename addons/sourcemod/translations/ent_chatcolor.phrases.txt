@@ -1,0 +1,23 @@
+﻿"Phrases"
+{
+	"Dead"
+	{
+		"hu"			"*HALOTT*"
+		"en"			"*DEAD*"
+	}
+	"Team"
+	{
+		"hu"			"(CSAPAT)"
+		"en"			"(TEAM)"
+	}
+	"Spec"
+	{
+		"hu"			"*NÉZÖ*"
+		"en"			"*SPEC*"
+	}
+	"Spec_Team"
+	{
+		"hu"			"(Megfigyelö)"
+		"en"			"(Spectator)"
+	}
+}
