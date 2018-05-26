@@ -26,7 +26,7 @@ public Plugin myinfo =
 
 public void OnPluginStart()
 {
-	LoadTranslations("entvip.phrases");
+	LoadTranslations("ent_chatcolor.phrases");
 	
 	g_hChatFlag = CreateConVar("sm_ent_chatflag", "a", "The flag of the custom chat colors");
 	
