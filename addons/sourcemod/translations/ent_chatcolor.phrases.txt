@@ -4,20 +4,24 @@
 	{
 		"hu"			"*HALOTT*"
 		"en"			"*DEAD*"
+		"fr"			"*MORT*"
 	}
 	"Team"
 	{
 		"hu"			"(CSAPAT)"
 		"en"			"(TEAM)"
+		"fr"			"(ÉQUIPE)"
 	}
 	"Spec"
 	{
 		"hu"			"*NÉZÖ*"
 		"en"			"*SPEC*"
+		"fr"			"*SPEC*"
 	}
 	"Spec_Team"
 	{
 		"hu"			"(Megfigyelö)"
 		"en"			"(Spectator)"
+		"fr"			"(Spectateur)"
 	}
 }
